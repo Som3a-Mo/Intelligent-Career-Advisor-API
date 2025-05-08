@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "ITeE9BG89hWO5rJpaH9GgxdO3ZCtasRwRh4uyGfTD1A=",
+  "Source": "Intelligent Career Advisor",
+  "BasePath": "_content/Intelligent Career Advisor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Intelligent Career Advisor\\wwwroot",
+      "Source": "Intelligent Career Advisor",
+      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "BasePath": "_content/Intelligent Career Advisor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\0614617c-f212-4cc8-9a98-1387474b8359.pdf",
+      "SourceId": "Intelligent Career Advisor",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "BasePath": "_content/Intelligent Career Advisor",
+      "RelativePath": "files/0614617c-f212-4cc8-9a98-1387474b8359#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "igt6amnnxi",
+      "Integrity": "XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\0614617c-f212-4cc8-9a98-1387474b8359.pdf"
+    },
+    {
+      "Identity": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg",
+      "SourceId": "Intelligent Career Advisor",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "BasePath": "_content/Intelligent Career Advisor",
+      "RelativePath": "images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5jybjswkj6",
+      "Integrity": "kWaTRr2rnz1HFkO+d5uSegF48+TB8V47ag8LDLUOkLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "files/0614617c-f212-4cc8-9a98-1387474b8359.igt6amnnxi.pdf",
+      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\0614617c-f212-4cc8-9a98-1387474b8359.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5685701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 16:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igt6amnnxi"
+        },
+        {
+          "Name": "label",
+          "Value": "files/0614617c-f212-4cc8-9a98-1387474b8359.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0="
+        }
+      ]
+    },
+    {
+      "Route": "files/0614617c-f212-4cc8-9a98-1387474b8359.pdf",
+      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\0614617c-f212-4cc8-9a98-1387474b8359.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5685701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 16:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.5jybjswkj6.jpg",
+      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kWaTRr2rnz1HFkO+d5uSegF48+TB8V47ag8LDLUOkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 16:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5jybjswkj6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kWaTRr2rnz1HFkO+d5uSegF48+TB8V47ag8LDLUOkLw="
+        }
+      ]
+    },
+    {
+      "Route": "images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg",
+      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kWaTRr2rnz1HFkO+d5uSegF48+TB8V47ag8LDLUOkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 16:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kWaTRr2rnz1HFkO+d5uSegF48+TB8V47ag8LDLUOkLw="
+        }
+      ]
+    }
+  ]
+}

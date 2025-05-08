@@ -1,0 +1,6 @@
+@Intelligent_Career_Advisor_HostAddress = http://localhost:5182
+
+GET {{Intelligent_Career_Advisor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

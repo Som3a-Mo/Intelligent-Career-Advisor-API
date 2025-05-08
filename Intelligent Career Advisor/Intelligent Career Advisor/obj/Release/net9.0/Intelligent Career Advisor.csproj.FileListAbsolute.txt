@@ -1,0 +1,180 @@
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\appsettings.Development.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\appsettings.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.staticwebassets.endpoints.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.exe
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.deps.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.runtimeconfig.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.pdb
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Azure.Core.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Azure.Identity.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\BouncyCastle.Cryptography.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\FluentValidation.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\FluentValidation.AspNetCore.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Humanizer.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\MailKit.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Mapster.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Mapster.Core.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Build.Locator.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Identity.Client.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.OpenApi.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\MimeKit.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Mono.TextTemplating.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.ClientModel.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.CodeDom.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Composition.AttributedModel.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Composition.Convention.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Composition.Hosting.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Composition.Runtime.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Composition.TypedParts.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Drawing.Common.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Memory.Data.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Runtime.Caching.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Security.Permissions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\System.Windows.Extensions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.csproj.AssemblyReference.cache
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.GeneratedMSBuildEditorConfig.editorconfig
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.AssemblyInfoInputs.cache
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.AssemblyInfo.cs
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.csproj.CoreCompileInputs.cache
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.MvcApplicationPartsAssemblyInfo.cs
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.MvcApplicationPartsAssemblyInfo.cache
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\scopedcss\bundle\Intelligent Career Advisor.styles.css
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets.build.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets.development.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets.build.endpoints.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets\msbuild.Intelligent Career Advisor.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets\msbuild.Intelligent Career Advisor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets\msbuild.build.Intelligent Career Advisor.props
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.Intelligent Career Advisor.props
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.Intelligent Career Advisor.props
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets.pack.json
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intellig.1BAAC72A.Up2Date
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\refint\Intelligent Career Advisor.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.pdb
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\Intelligent Career Advisor.genruntimeconfig.cache
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\obj\Release\net9.0\ref\Intelligent Career Advisor.dll
+E:\PEDI\Mega Project\Intelligent Career Advisor\Intelligent Career Advisor\bin\Release\net9.0\Intelligent Career Advisor.staticwebassets.runtime.json

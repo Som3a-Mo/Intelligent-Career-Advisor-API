@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelligent Career Advisor", "Intelligent Career Advisor\Intelligent Career Advisor.csproj", "{CBD8E24B-3464-4939-B24C-693A486AD3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD8E24B-3464-4939-B24C-693A486AD3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD8E24B-3464-4939-B24C-693A486AD3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD8E24B-3464-4939-B24C-693A486AD3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD8E24B-3464-4939-B24C-693A486AD3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92CCB5E7-E73A-48C3-82F6-42213302F517}
+	EndGlobalSection
+EndGlobal

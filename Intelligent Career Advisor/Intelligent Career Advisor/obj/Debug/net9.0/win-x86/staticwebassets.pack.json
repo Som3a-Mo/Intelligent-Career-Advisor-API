@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
+      "PackagePath": "staticwebassets\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf"
+    },
+    {
+      "Id": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
+      "PackagePath": "staticwebassets\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x86\\staticwebassets\\msbuild.Intelligent Career Advisor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x86\\staticwebassets\\msbuild.Intelligent Career Advisor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x86\\staticwebassets\\msbuild.build.Intelligent Career Advisor.props",
+      "PackagePath": "build\\Intelligent Career Advisor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Intelligent Career Advisor.props",
+      "PackagePath": "buildMultiTargeting\\Intelligent Career Advisor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Intelligent Career Advisor.props",
+      "PackagePath": "buildTransitive\\Intelligent Career Advisor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Intelligent Career Advisor/files/0614617c-f212-4cc8-9a98-1387474b8359.igt6amnnxi.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\0614617c-f212-4cc8-9a98-1387474b8359.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"igt6amnnxi"},{"Name":"integrity","Value":"sha256-XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0="},{"Name":"label","Value":"_content/Intelligent Career Advisor/files/0614617c-f212-4cc8-9a98-1387474b8359.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5685701"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Apr 2025 16:49:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Intelligent Career Advisor/files/0614617c-f212-4cc8-9a98-1387474b8359.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\0614617c-f212-4cc8-9a98-1387474b8359.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5685701"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022XpMF4dX1F7ydyF2N/CU0/XLONX2bw850BMeuip/Gdd0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Apr 2025 16:49:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Intelligent Career Advisor/images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.5jybjswkj6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5jybjswkj6"},{"Name":"integrity","Value":"sha256-kWaTRr2rnz1HFkO\u002Bd5uSegF48\u002BTB8V47ag8LDLUOkLw="},{"Name":"label","Value":"_content/Intelligent Career Advisor/images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79249"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kWaTRr2rnz1HFkO\u002Bd5uSegF48\u002BTB8V47ag8LDLUOkLw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Apr 2025 16:49:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Intelligent Career Advisor/images/556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\556864b9-8a6d-4e0c-b4ab-ace22ed13a72.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kWaTRr2rnz1HFkO\u002Bd5uSegF48\u002BTB8V47ag8LDLUOkLw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"79249"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kWaTRr2rnz1HFkO\u002Bd5uSegF48\u002BTB8V47ag8LDLUOkLw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Apr 2025 16:49:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
