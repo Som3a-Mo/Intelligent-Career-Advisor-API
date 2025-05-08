@@ -50,7 +50,7 @@ A robust ASP.NET Core Web API that provides user authentication, profile managem
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/intelligent-career-advisor.git
+git clone https://github.com/Som3a-Mo/intelligent-career-advisor.git
 cd intelligent-career-advisor
 ```
 
