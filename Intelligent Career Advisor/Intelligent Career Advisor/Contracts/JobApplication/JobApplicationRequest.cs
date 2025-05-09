@@ -7,6 +7,6 @@ public record JobApplicationRequest
     DateTime ApplicationDate,
     ApplicationStatus Status,
     string ApplicationSource,
-    string Notes,
+    string? Notes,
     IFormFile? Attachment
 );

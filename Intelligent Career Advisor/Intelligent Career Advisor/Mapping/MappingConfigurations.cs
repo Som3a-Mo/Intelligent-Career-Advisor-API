@@ -10,19 +10,20 @@ public class MappingConfigurations : IRegister
             .Map(dest => dest.UserName, src => src.Email);
 
         config.NewConfig<ApplicationUser, UserProfileResponse>()
-        .Map(dest => dest.ProfilePictureUrl, src => src.Profile.ProfilePictureUrl)
-        .Map(dest => dest.University, src => src.Profile.University)
-        .Map(dest => dest.City, src => src.Profile.City)
-        .Map(dest => dest.Country, src => src.Profile.Country)
-        .Map(dest => dest.Degree, src => src.Profile.Degree)
-        .Map(dest => dest.GraduationYear, src => src.Profile.GraduationYear)
-        .Map(dest => dest.ExperienceYears, src => src.Profile.ExperienceYears)
-        .Map(dest => dest.JobTitle, src => src.Profile.JobTitle)
-        .Map(dest => dest.Company, src => src.Profile.Company)
-        .Map(dest => dest.SalaryExpectations, src => src.Profile.SalaryExpectations)
-        .Map(dest => dest.ResumeFileUrl, src => src.Profile.ResumeFileUrl)
-        .Map(dest => dest.HardSkills, src => src.Profile.HardSkills)
-        .Map(dest => dest.SoftSkills, src => src.Profile.SoftSkills);
+    .Map(dest => dest.ProfilePictureUrl, src => src.Profile != null ? src.Profile.ProfilePictureUrl : null)
+    .Map(dest => dest.University, src => src.Profile != null ? src.Profile.University : "")
+    .Map(dest => dest.City, src => src.Profile != null ? src.Profile.City : "")
+    .Map(dest => dest.Country, src => src.Profile != null ? src.Profile.Country : "")
+    .Map(dest => dest.Degree, src => src.Profile != null ? src.Profile.Degree : "")
+    .Map(dest => dest.GraduationYear, src => src.Profile != null ? src.Profile.GraduationYear : null)
+    .Map(dest => dest.ExperienceYears, src => src.Profile != null ? src.Profile.ExperienceYears : 0)
+    .Map(dest => dest.JobTitle, src => src.Profile != null ? src.Profile.JobTitle : "")
+    .Map(dest => dest.Company, src => src.Profile != null ? src.Profile.Company : "")
+    .Map(dest => dest.SalaryExpectations, src => src.Profile != null ? src.Profile.SalaryExpectations : null)
+    .Map(dest => dest.ResumeFileUrl, src => src.Profile != null ? src.Profile.ResumeFileUrl : null)
+    .Map(dest => dest.HardSkills, src => src.Profile != null ? src.Profile.HardSkills : new List<string>())
+    .Map(dest => dest.SoftSkills, src => src.Profile != null ? src.Profile.SoftSkills : new List<string>());
+
 
 
 

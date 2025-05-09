@@ -48,12 +48,17 @@ public class JobApplicationService(ApplicationContext context, IHttpContextAcces
         }
     }
 
-    public async Task UpdateJobApplicationAsync(int Id, JobApplicationRequest jobApplicationRequest, CancellationToken cancellationToken)
+    public async Task UpdateJobApplicationAsync(int Id, JobApplicationRequest jobApplicationRequest, CancellationToken cancellationToken = default)
     {
         var jobApplication = _context.JobApplications.FirstOrDefault(j => j.Id == Id);
 
-        FileHelpers.DeleteFile(jobApplication.AttachmentUrl, "files", _env);
-        jobApplication.AttachmentUrl = await FileHelpers.SaveFileAsync(jobApplicationRequest.Attachment, "files", _accessor, _env);
+        if (jobApplicationRequest.Attachment != null)
+        {
+            FileHelpers.DeleteFile(jobApplication.AttachmentUrl, "files", _env);
+            jobApplication.AttachmentUrl = await FileHelpers.SaveFileAsync(jobApplicationRequest.Attachment, "files", _accessor, _env);
+        }
+        //FileHelpers.DeleteFile(jobApplication.AttachmentUrl, "files", _env);
+        //jobApplication.AttachmentUrl = await FileHelpers.SaveFileAsync(jobApplicationRequest.Attachment, "files", _accessor, _env);
         jobApplication.Status = jobApplicationRequest.Status;
         jobApplication.ApplicationDate = jobApplicationRequest.ApplicationDate;
         jobApplication.ApplicationSource = jobApplicationRequest.ApplicationSource;

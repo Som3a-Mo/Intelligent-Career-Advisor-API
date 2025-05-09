@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intelligent Career Advisor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d18aadd8982bb40c50048f112d9d955b62e3f343")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intelligent Career Advisor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intelligent Career Advisor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

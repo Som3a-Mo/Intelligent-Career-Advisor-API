@@ -19,7 +19,7 @@ public record UserProfileResponse(
     ICollection<string> SoftSkills,
     string JobTitle,
     string Company,
-    decimal SalaryExpectations,
+    decimal? SalaryExpectations,
     string? ResumeFileUrl
     //string LinkedInUrl,
     //string GitHubUrl

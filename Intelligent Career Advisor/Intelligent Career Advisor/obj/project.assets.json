@@ -5075,11 +5075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Intelligent Career Advisor.csproj",
+      "projectUniqueName": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Intelligent Career Advisor.csproj",
       "projectName": "Intelligent Career Advisor",
-      "projectPath": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Intelligent Career Advisor.csproj",
+      "projectPath": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Intelligent Career Advisor.csproj",
       "packagesPath": "C:\\Users\\esmail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\obj\\",
+      "outputPath": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
