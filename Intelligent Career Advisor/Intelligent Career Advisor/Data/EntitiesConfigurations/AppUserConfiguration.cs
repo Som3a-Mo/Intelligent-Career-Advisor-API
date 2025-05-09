@@ -21,11 +21,6 @@ public class AppUserConfiguration : IEntityTypeConfiguration<ApplicationUser>
                   .HasForeignKey<UserProfile>(p => p.ApplicationUserId)
                   .IsRequired();
 
-        // Relationship for UserCertification
-        builder
-               .HasMany(u => u.Certifications)
-               .WithOne(c => c.ApplicationUser)
-               .HasForeignKey(c => c.ApplicationUserId);
 
         // Relationship for JobApplication
         builder
@@ -33,22 +28,6 @@ public class AppUserConfiguration : IEntityTypeConfiguration<ApplicationUser>
                .WithOne(j => j.ApplicationUser)
                .HasForeignKey(j => j.ApplicationUserId);
 
-        // Relationship for SavedJobRecommendation
-        builder
-               .HasMany(u => u.SavedJobRecommendations)
-               .WithOne(r => r.ApplicationUser)
-               .HasForeignKey(r => r.ApplicationUserId);
 
-        // Relationship for ResumeFeedback
-        builder
-               .HasMany(u => u.ResumeFeedbacks)
-               .WithOne(f => f.ApplicationUser)
-               .HasForeignKey(f => f.ApplicationUserId);
-
-        // Relationship for InterviewSessionFeedback
-        builder
-               .HasMany(u => u.InterviewSessionFeedbacks)
-               .WithOne(i => i.ApplicationUser)
-               .HasForeignKey(i => i.ApplicationUserId);
     }
 }

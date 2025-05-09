@@ -15,9 +15,7 @@ public class ApplicationUser: IdentityUser
     // Additionally, the navigation properties for related collections can still be included:
 
     public ICollection<RefreshToken> RefreshTokens { get; set; } = [];
-    public ICollection<UserCertification> Certifications { get; set; } = [];
+    
     public ICollection<JobApplication> JobApplications { get; set; } = [];
-    public ICollection<SavedJobRecommendation> SavedJobRecommendations { get; set; } = [];
-    public ICollection<ResumeFeedback> ResumeFeedbacks { get; set; } = [];
-    public ICollection<InterviewSessionFeedback> InterviewSessionFeedbacks { get; set; } = [];
+  
 }

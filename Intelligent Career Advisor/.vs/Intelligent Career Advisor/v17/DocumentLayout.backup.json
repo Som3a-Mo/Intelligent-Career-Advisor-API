@@ -1,25 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\",
+  "WorkspaceRootPath": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|e:\\pedi\\mega project\\intelligent career advisor\\intelligent career advisor\\contracts\\users\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\contracts\\users\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|e:\\pedi\\mega project\\intelligent career advisor\\intelligent career advisor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\esmail\\AppData\\Roaming\\Microsoft\\UserSecrets\\b567e113-dd0b-4dde-9a77-2ca9dd960596\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|e:\\pedi\\mega project\\intelligent career advisor\\intelligent career advisor\\mapping\\mappingconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\mapping\\mappingconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|e:\\pedi\\mega project\\intelligent career advisor\\intelligent career advisor\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\data\\entitiesconfigurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\data\\entitiesconfigurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\data\\entitiesconfigurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\data\\entitiesconfigurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|e:\\pedi\\mega project\\intelligent career advisor\\intelligent career advisor\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\contracts\\users\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\contracts\\users\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\mapping\\mappingconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\mapping\\mappingconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|c:\\users\\esmail\\desktop\\temp\\intelligent-career-advisor-api\\intelligent career advisor\\intelligent career advisor\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8E24B-3464-4939-B24C-693A486AD3ED}|Intelligent Career Advisor\\Intelligent Career Advisor.csproj|solutionrelative:intelligent career advisor\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,63 +65,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MappingConfigurations.cs",
-              "DocumentMoniker": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
-              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
-              "ToolTip": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
-              "RelativeToolTip": "Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250509200943_deleteUnuseTable.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs",
+              "RelativeToolTip": "Intelligent Career Advisor\\Data\\Migrations\\20250509200943_deleteUnuseTable.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:40:46.915Z",
+              "WhenOpened": "2025-05-09T20:09:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\esmail\\AppData\\Roaming\\Microsoft\\UserSecrets\\b567e113-dd0b-4dde-9a77-2ca9dd960596\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b567e113-dd0b-4dde-9a77-2ca9dd960596\\secrets.json",
+              "ToolTip": "C:\\Users\\esmail\\AppData\\Roaming\\Microsoft\\UserSecrets\\b567e113-dd0b-4dde-9a77-2ca9dd960596\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b567e113-dd0b-4dde-9a77-2ca9dd960596\\secrets.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:08:35.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JobApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\EntitiesConfigurations\\JobApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Data\\EntitiesConfigurations\\JobApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\EntitiesConfigurations\\JobApplicationConfiguration.cs",
+              "RelativeToolTip": "Intelligent Career Advisor\\Data\\EntitiesConfigurations\\JobApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:07:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\EntitiesConfigurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Data\\EntitiesConfigurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Data\\EntitiesConfigurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Intelligent Career Advisor\\Data\\EntitiesConfigurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:06:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Intelligent Career Advisor\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA8wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:06:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\appsettings.json",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\appsettings.json",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\appsettings.json",
+              "RelativeToolTip": "Intelligent Career Advisor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:04:35.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
+              "RelativeDocumentMoniker": "Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
+              "RelativeToolTip": "Intelligent Career Advisor\\Mapping\\MappingConfigurations.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:40:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Intelligent Career Advisor\\Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "Intelligent Career Advisor\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T12:36:32.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UserProfileResponse.cs",
-              "DocumentMoniker": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
               "RelativeDocumentMoniker": "Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
-              "ToolTip": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
               "RelativeToolTip": "Intelligent Career Advisor\\Contracts\\Users\\UserProfileResponse.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAywBUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T12:32:25.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "UserProfile.cs",
-              "DocumentMoniker": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\UserProfile.cs",
               "RelativeDocumentMoniker": "Intelligent Career Advisor\\Models\\UserProfile.cs",
-              "ToolTip": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Models\\UserProfile.cs",
               "RelativeToolTip": "Intelligent Career Advisor\\Models\\UserProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:32:57.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T12:32:57.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Intelligent Career Advisor\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Intelligent Career Advisor\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

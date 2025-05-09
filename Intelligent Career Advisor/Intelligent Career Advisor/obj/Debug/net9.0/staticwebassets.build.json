@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gC4CoZLSrka1u3S+Nundcy1zoZmCwAoRz5gmrIiPu14=",
+  "Hash": "11DYkzaOj0nxAmOhz9yMXzLoRBrU3qlDEJ32il35oRE=",
   "Source": "Intelligent Career Advisor",
   "BasePath": "_content/Intelligent Career Advisor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Intelligent Career Advisor\\wwwroot",
       "Source": "Intelligent Career Advisor",
-      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
       "BasePath": "_content/Intelligent Career Advisor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
+      "Identity": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
       "SourceId": "Intelligent Career Advisor",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
       "BasePath": "_content/Intelligent Career Advisor",
       "RelativePath": "files/6a42840a-5e4b-4640-a490-d94d74447e90#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf"
     },
     {
-      "Identity": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
+      "Identity": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
       "SourceId": "Intelligent Career Advisor",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\",
       "BasePath": "_content/Intelligent Career Advisor",
       "RelativePath": "images/4eb81d26-851f-4a29-ac2d-b46c34af4843#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -62,7 +62,7 @@
   "Endpoints": [
     {
       "Route": "files/6a42840a-5e4b-4640-a490-d94d74447e90.gldkfgzkg4.pdf",
-      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
+      "AssetFile": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -107,7 +107,7 @@
     },
     {
       "Route": "files/6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
-      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
+      "AssetFile": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\files\\6a42840a-5e4b-4640-a490-d94d74447e90.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "Route": "images/4eb81d26-851f-4a29-ac2d-b46c34af4843.atxmiwq7xv.jpg",
-      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
+      "AssetFile": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -189,7 +189,7 @@
     },
     {
       "Route": "images/4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
-      "AssetFile": "E:\\PEDI\\Mega Project\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
+      "AssetFile": "C:\\Users\\esmail\\Desktop\\temp\\Intelligent-Career-Advisor-API\\Intelligent Career Advisor\\Intelligent Career Advisor\\wwwroot\\images\\4eb81d26-851f-4a29-ac2d-b46c34af4843.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

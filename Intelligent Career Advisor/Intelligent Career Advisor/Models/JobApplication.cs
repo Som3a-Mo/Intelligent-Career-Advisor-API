@@ -15,6 +15,4 @@ public class JobApplication
     public string ApplicationUserId { get; set; }
     public ApplicationUser ApplicationUser { get; set; }
 
-    // Job application reminders
-    public ICollection<JobApplicationReminder> Reminders { get; set; }
 }

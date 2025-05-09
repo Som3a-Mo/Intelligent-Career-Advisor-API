@@ -8,8 +8,5 @@ public class JobApplicationConfiguration : IEntityTypeConfiguration<JobApplicati
     {
         builder.Property(x => x.Status).HasConversion<string>();
 
-        builder.HasMany(j => j.Reminders)
-            .WithOne(r => r.JobApplication)
-            .HasForeignKey(r => r.JobApplicationId);
     }
 }
